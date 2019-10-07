@@ -1,0 +1,25 @@
+
+
+Observation :
+1. there are no NaN values.
+2. It seems that value "-99.9" is irrelevant that doesn't help to provide relevant information. We will hence omit that data using column "Peak Direction"
+3. the pariplot shows us that the columns are uncorrelated to each other
+
+
+Conclusion : 
+1. We tried to pull prediction on column "Direction", just to see from which wave is pulled into. with an accuracy of 0.12, we dropped that idea.
+2. Quiet hard to understand, what shall be the target column. What shall be the framed question
+3. The column "Hmax", also, can't be treated as target column.
+
+
+
+
+
+
+
+
+
+
+
+
+
